@@ -4,6 +4,9 @@ End-to-End Geospatial Data Pipeline
 A real-time global earthquake monitoring system that ingests public seismic data into a cloud database and visualizes it through an interactive 3D geospatial dashboard.
 This project demonstrates a complete data engineering workflow — from API ingestion to cloud storage and interactive visualization.
 
+Streamlit link 
+[https://global-earthquake-tracker.streamlit.app/]
+
 🚀 Key Features
 🔄 Automated ETL Pipeline
 
